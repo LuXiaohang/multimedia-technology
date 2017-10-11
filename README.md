@@ -1,0 +1,2 @@
+Implement the algorithm to achieve image retrival based on matlab according to this paper:  
+Li J, Wang J Z, Wiederhold G. IRM: integrated region matching for image retrieval[C]//Proceedings of the eighth ACM international conference on Multimedia. ACM, 2000: 147-156.
